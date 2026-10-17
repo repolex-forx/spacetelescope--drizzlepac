@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/spacetelescope/drizzlepac/commit/07a9de88cad79da5c2acf0a683328afc0f1d5f2a",
       "git:hexsha": "07a9de88cad79da5c2acf0a683328afc0f1d5f2a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/spacetelescope/drizzlepac/commit/6dfa96e73160468f46440a071721e7110e94255c",
