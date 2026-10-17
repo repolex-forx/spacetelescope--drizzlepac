@@ -1,0 +1,11 @@
+{
+  "org": "spacetelescope",
+  "repo": "drizzlepac",
+  "versions": [
+    {
+      "commit": "07a9de88cad79da5c2acf0a683328afc0f1d5f2a",
+      "tag": "",
+      "parsed_at": "2026-10-17T02:50:22.892450+00:00"
+    }
+  ]
+}
